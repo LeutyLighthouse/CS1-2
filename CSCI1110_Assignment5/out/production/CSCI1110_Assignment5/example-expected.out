@@ -1,0 +1,68 @@
+1 : teller Percy arrives
+1 : teller Busby arrives
+5 : client Cliff5 arrives
+5 : client Cliff5 is served by teller Percy
+12 : client Cliff5 leaves
+27 : client Cleo27 arrives
+27 : client Cleo27 is served by teller Busby
+29 : client Cliff29 arrives
+29 : client Cliff29 is served by teller Percy
+35 : client Cliff35 arrives
+35 : client Cleo35 arrives
+35 : client Cliff29 leaves
+35 : client Cliff35 is served by teller Percy
+39 : client Cliff39 arrives
+39 : client Cleo39 arrives
+44 : client Cleo27 leaves
+44 : client Cleo35 is served by teller Busby
+45 : client Cliff35 leaves
+45 : client Cliff39 is served by teller Percy
+46 : client Cliff46 arrives
+50 : client Cliff39 leaves
+50 : client Cliff46 is served by teller Percy
+54 : client Cleo54 arrives
+60 : client Cleo35 leaves
+60 : client Cleo39 is served by teller Busby
+64 : client Cleo64 arrives
+65 : client Cliff65 arrives
+69 : client Cliff46 leaves
+69 : client Cliff65 is served by teller Percy
+73 : client Cliff73 arrives
+75 : client Cliff75 arrives
+79 : client Cliff65 leaves
+79 : client Cliff73 is served by teller Percy
+81 : client Cliff81 arrives
+81 : client Cliff81 arrives
+81 : client Cleo39 leaves
+81 : client Cleo54 is served by teller Busby
+82 : client Cliff82 arrives
+82 : client Cleo82 arrives
+83 : client Cleo83 arrives
+89 : client Cleo89 arrives
+90 : client Cliff73 leaves
+90 : client Cliff75 is served by teller Percy
+95 : client Cleo95 arrives
+96 : client Cliff75 leaves
+96 : client Cliff81 is served by teller Percy
+97 : client Cliff97 arrives
+97 : client Cleo97 arrives
+102 : client Cliff102 arrives
+102 : client Cliff102 arrives
+102 : client Cleo54 leaves
+102 : client Cleo64 is served by teller Busby
+104 : client Cleo104 arrives
+108 : client Cliff108 arrives
+109 : client Cleo109 arrives
+111 : client Cliff81 leaves
+111 : client Cliff81 is served by teller Percy
+114 : client Cliff114 arrives
+119 : client Cleo119 arrives
+119 : client Cliff81 leaves
+119 : client Cliff82 is served by teller Percy
+131 : client Cleo64 leaves
+131 : teller Busby leaves
+134 : client Cliff82 leaves
+134 : teller Percy leaves
+Hourly Average Line-Ups
+hour 1 : personal 0, business 0
+hour 2 : personal 3, business 4
